@@ -2,6 +2,11 @@
 
 ## Commands to know
 
+Excit a query
+- ```sql
+  \c
+  ```
+
 How to add a book to the database
 - ```sql
   INSERT INTO books VALL
