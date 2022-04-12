@@ -27,3 +27,8 @@ button {
     text-align: left;
     padding-left: 50px;
 }
+
+form{
+    margin-left: 30%;
+    margin-right:30%;
+}
